@@ -1,0 +1,11 @@
+libevent2.0_5
+sdesc: "Event notification library"
+ldesc: "The libevent API provides a mechanism to execute a callback
+function when a specific event occurs on a file descriptor or after a timeout
+has been reached. Furthermore, libevent also support callbacks due to signals
+or regular timeouts."
+category: Libs
+requires: libgcc1 libopenssl100
+version: 2.0.21-1
+install: x86/release/libevent/libevent2.0_5/libevent2.0_5-2.0.21-1.tar.bz2 143946 9ffa4ceb9d245ca5175d65d2893746093986987de77a4a1a085a42c2a57aab053075a5f7dc5b6f4079c82c7595082d0fa69cd5735f69e98e6099c93ec7862f5e
+source: x86/release/libevent/libevent-2.0.21-1-src.tar.bz2 855435 cee2b45983767588837e79a1ce20d385fa786b4af8997d8ce28d7f45639b5a79f267e99fd85fca34f7660e2facbc14c2a16fdce0122501f3c78a449edf6c1489
